@@ -29,7 +29,6 @@ I'm a **Computer Science graduate (B.E. 2025, M.Tech in progress)** who builds *
 
 I care about the unglamorous parts that make AI trustworthy: keeping answers **grounded in retrieved context**, making API calls **resilient**, and **measuring quality** across models.
 <br>
-<a href="https://resume-ebon-three-28.vercel.app">Visit for more info about me</a>
 ```python
 class AdityaRathod:
     role      = "AI Engineer"
@@ -211,7 +210,7 @@ flowchart LR
 <div align="center">
 
 <!-- Replace the link below with your deployed portfolio URL (GitHub Pages / Netlify / Vercel) -->
-<a href="https://Joyboy1492025.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Website%20%2B%20Interactive%20Terminal-00f0ff?style=for-the-badge&labelColor=080313" alt="Portfolio" /></a>
+<a href="https://resume-ebon-three-28.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Website%20%2B%20Interactive%20Terminal-00f0ff?style=for-the-badge&labelColor=080313" alt="Portfolio" /></a>
 
 <sub>My portfolio has a built-in terminal. Try <code>projects</code>, <code>agents</code>, <code>stats</code>, <code>hire</code> or <code>fx matrix</code>. ⌨️</sub>
 
