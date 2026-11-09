@@ -28,7 +28,7 @@
 I'm a **Computer Science graduate (B.E. 2025, M.Tech in progress)** who builds **production-minded LLM features** in Python: autonomous multi-agent pipelines, end-to-end RAG systems, structured outputs and automated evaluation guardrails.
 
 I care about the unglamorous parts that make AI trustworthy: keeping answers **grounded in retrieved context**, making API calls **resilient**, and **measuring quality** across models.
-
+<a href="https://github.com/Joyboy1492025">Visit for more info about me</a>
 ```python
 class AdityaRathod:
     role      = "AI Engineer"
