@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="350" viewBox="0 0 820 350" role="img" aria-label="Animated terminal showing Aditya Rathod's profile">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="1" stop-color="#ff007f"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Fira Code', ui-monospace, Menlo, Consolas, monospace; font-size: 15px; }
+      .p { fill: #00ff73; font-weight: 700; }
+      .c { fill: #f5e6ff; }
+      .d { fill: #9e7eb3; }
+      .a { fill: #00f0ff; }
+      .w { fill: #ffb800; }
+      .l { opacity: 0; animation: in 0.4s forwards; }
+      @keyframes in { to { opacity: 1; } }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .glow { animation: glow 3s ease-in-out infinite alternate; }
+      @keyframes glow { from { opacity: 0.5; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="817" height="347" rx="14" fill="#0d0720" stroke="url(#g)" stroke-width="2" class="glow"/>
+  <rect x="2" y="2" width="816" height="36" rx="13" fill="#1a0d33"/>
+  <rect x="2" y="22" width="816" height="16" fill="#1a0d33"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6" fill="#27c93f"/>
+  <text x="410" y="25" text-anchor="middle" class="d" style="font-size:12px">aditya@agentic: ~/portfolio</text>
+
+  <g>
+    <text x="28" y="72"  class="l" style="animation-delay:0.4s"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text>
+    <text x="28" y="96"  class="l" style="animation-delay:1.0s"><tspan class="a">aditya</tspan><tspan class="d"> — AI Engineer · Agentic AI &amp; LLM Systems</tspan></text>
+
+    <text x="28" y="130" class="l" style="animation-delay:1.8s"><tspan class="p">$</tspan> <tspan class="c">cat stack.txt</tspan></text>
+    <text x="28" y="154" class="l" style="animation-delay:2.4s"><tspan class="d">LangGraph · Phidata · LangChain · Ollama · ChromaDB</tspan></text>
+
+    <text x="28" y="188" class="l" style="animation-delay:3.2s"><tspan class="p">$</tspan> <tspan class="c">./impact --summary</tspan></text>
+    <text x="28" y="212" class="l" style="animation-delay:3.8s"><tspan class="w">5</tspan><tspan class="d"> agents  </tspan><tspan class="w">90%</tspan><tspan class="d"> fewer API failures  </tspan><tspan class="w">$0</tspan><tspan class="d"> inference  </tspan><tspan class="w">&lt;1s</tspan><tspan class="d"> retrieval</tspan></text>
+
+    <text x="28" y="246" class="l" style="animation-delay:4.6s"><tspan class="p">$</tspan> <tspan class="c">./status --now</tspan></text>
+    <text x="28" y="270" class="l" style="animation-delay:5.2s"><tspan class="p">●</tspan><tspan class="a"> open to AI Engineering &amp; LLM Systems roles</tspan></text>
+
+    <text x="28" y="304" class="l" style="animation-delay:5.8s"><tspan class="p">$</tspan> <tspan class="c cur">█</tspan></text>
+  </g>
+</svg>
